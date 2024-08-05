@@ -9,7 +9,6 @@ FusionPlay is a streaming application similar to Netflix, providing a rich libra
 - **Categories**: Dive into various genres such as Action, Comedy, Drama, and more.
 - **Personalized Recommendations**: Get movie recommendations based on your watch history.
 - **User Profiles**: Create and manage multiple user profiles for personalized experiences.
-- **Offline Viewing**: Download content and watch it offline.
 
 ## Installation
 
@@ -17,7 +16,7 @@ To install FusionPlay on your Android device, follow these steps:
 
 1. **Download the APK**:
    - Visit the [Releases](https://github.com/ayaanhaider-dev/fusionplay/releases) page.
-   - Download the latest `app-release.apk` file.
+   - Download the latest apk file.
 
 2. **Install the APK**:
    - Locate the downloaded APK file on your device.
